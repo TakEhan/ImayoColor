@@ -3,7 +3,7 @@ This is short code to discribe new definition of Imayo (color name).
 
 
 
-#日本語による説明
+# 日本語による説明
 今様色、と言う色がある。
 この色は字義的には「今、流行している色」の意味で相違ないと考えられる。
 
@@ -18,7 +18,7 @@ This is short code to discribe new definition of Imayo (color name).
 
 具体的定義はコードを見よ。
 
-##コードの不具合
+## コードの不具合
 このコードは明らかにいくつかの不都合を含んでいる。
 コードは任意で修正可能であるが、筆者は積極的な修正を予定していない。
 概念が重要であり、コードそのものは重要でないからである。
