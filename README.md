@@ -1,8 +1,8 @@
 # ImayoColor
-This is short code to discribe new definition of Imayo (color name). 
+This is short code to discribe new definition of imayo (color name). 
 Imayo is a Japanese color name. 
 That name means color of "trend". 
-This means Imayo shold be changed its actual color by passing time. 
+This means actual color of imayo shold be changed by passing time. 
 
 For some reason, it's not. 
 Imayo is considered as one of the traditiona color of Japan and its color code is #D0576B (cite: [HTMLカラーコード](https://www.colordic.org/colorsample/2017)). 
