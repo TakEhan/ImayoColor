@@ -5,9 +5,10 @@ That name means color of "trend".
 This means actual color of imayo shold be changed by passing time. 
 
 For some reason, it's not. 
-Imayo is considered as one of the traditiona color of Japan and its color code is #D0576B (cite: [HTMLカラーコード](https://www.colordic.org/colorsample/2017)). 
+Imayo is considered as one of the traditional color of Japan and its color code is #D0576B (cite: [HTMLカラーコード](https://www.colordic.org/colorsample/2017)). 
 
 This code re-define Imayo as a UNIX time based color. 
+Now, we can use proper defined imayo. 
 
 
 
